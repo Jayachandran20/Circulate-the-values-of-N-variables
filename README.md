@@ -27,7 +27,11 @@ def circulate():
 ```
 
 ## Output:
-![OUTPUT][./images/nvariables.png]
-![OUTPUT][./images/n variables.png]
+![nvariables](https://user-images.githubusercontent.com/118447015/209439240-536532d0-b1b4-4d55-9bde-8759ae4ad63b.png)
+
+![n variables](https://user-images.githubusercontent.com/118447015/209439251-a76d2f91-17ae-415e-ad58-8b2e2bae0db7.png)
+
+
+
 ## Result:
 Thus Circulating The values N VAriable's are successfully executed
