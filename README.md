@@ -19,6 +19,9 @@ Print both the values it would be interchanged
 End the program
 ## Program:
 ```
+#Program to find the circulate the n variables using function concept
+#Developed by: M.Jayachandran
+#RegisterNumber: 22008847
 def circulate():
     l=eval(input())
     n=int(input())
