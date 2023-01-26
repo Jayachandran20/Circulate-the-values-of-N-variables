@@ -30,9 +30,8 @@ def circulate():
 ```
 
 ## Output:
-![nvariables](https://user-images.githubusercontent.com/118447015/209439240-536532d0-b1b4-4d55-9bde-8759ae4ad63b.png)
 
-![n variables](https://user-images.githubusercontent.com/118447015/209439251-a76d2f91-17ae-415e-ad58-8b2e2bae0db7.png)
+![nvar](https://user-images.githubusercontent.com/118447015/214823643-301b318b-df7f-4028-a51d-db6739453776.png)
 
 
 
